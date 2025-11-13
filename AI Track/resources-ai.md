@@ -9,7 +9,7 @@ Claude Code
 Gemini CLI
 
 Only for teams who choose the AI track.
-##🚀 Recommended APIs & Frameworks
+##🚀 Recommended APIs & Frameworks 
 If your team chooses AI, we recommend using one of ****these three APIs:
 Gemini API → Generous freemium tier and very fast models (flash/flash-lite).
 Docs: https://ai.google.dev/gemini-api/docs/quickstart
