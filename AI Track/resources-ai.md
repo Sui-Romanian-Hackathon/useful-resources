@@ -1,6 +1,6 @@
-##AI Track Guide – Sui Hackathon Edition
+AI Track Guide – Sui Hackathon Edition
 
-#⚡ Recommended Dev Tools
+⚡ Recommended Dev Tools
 IDE (Integrated Development Environment)
 Cursor
 Windsurf
@@ -9,18 +9,22 @@ Claude Code
 Gemini CLI
 
 Only for teams who choose the AI track.
-##🚀 Recommended APIs & Frameworks 
-If your team chooses AI, we recommend using one of ****these three APIs:
+🚀 Recommended APIs & Frameworks 
+If your team chooses AI, we recommend using one of these three APIs:
+
 Gemini API → Generous freemium tier and very fast models (flash/flash-lite).
 Docs: https://ai.google.dev/gemini-api/docs/quickstart
+
 OpenRouter.ai → Access any LLM (GPT, Claude, Llama, etc.) through a single, unified API.
 Docs: https://openrouter.ai/docs/quickstart
+
 Fal.ai → The best choice for non-LLM tasks. An "OpenRouter" equivalent for image, audio, and video generation.
 Docs: https://docs.fal.ai
+
 Langchain/Langgraph → The most popular framework (Python/JS) for building context-aware, reasoning agents that can chain multiple AI calls and actions together.
 Docs: https://docs.langchain.com
 
-##💡 Use Cases
+💡 Use Cases
 1. ART: AI-Generated NFT Collections
 Generation: Use generative AI models to create unique collections of images, music, 3D models, or other digital media.
 Storage: Store the generated media files and their corresponding metadata on decentralized storage solutions like IPFS (InterPlanetary File System) or Arweave.
